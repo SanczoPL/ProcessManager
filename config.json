@@ -1,0 +1,17 @@
+{
+    "General":
+	{
+        "LogLevel":0
+    },
+    "Processes":
+    [
+        {
+            "ProcessName":"",
+            "BinaryPath":"",
+            "WorkingDirectory":"",
+            "Arguments":"",
+            "AutoStart": true
+        }
+    ]
+    
+}
