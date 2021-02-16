@@ -1,0 +1,6 @@
+[submodule "ConfigReader"]
+	path = ConfigReader
+	url = https://github.com/SanczoPL/ConfigReader.git
+[submodule "IncludeSpdlog"]
+	path = IncludeSpdlog
+	url = https://github.com/SanczoPL/IncludeSpdlog.git
